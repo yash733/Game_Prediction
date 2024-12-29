@@ -2,10 +2,15 @@
 
 #### Data set link - https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset
 
-<font color='Orange'>To be noted</font></br>
+## <font color='Orange'> To be noted</font></br>
 - Found there is some issue with the model, throwing wage results at random out of blue. WORKING ON IT
 - UN-able to deploy over streamlit server due to package version clash. UNABLE TO RESOLVE
 - <font color='green'>Working fine on local system</font>
+
+## Setup
+Use Setup.py to create a venv and instalation of required libraries Automatically. In order to create a venv with custom NAME and python version opne the file and pass value as you desired.</br>
+- By defauly virtual environment name "venv" and available python version will chooses.
+
 
 ### <font color="Tan">Data Description</font><a class = 'anchor' id = 'desc'></a>
 - <b>DBNOs -</b> Number of enemy players knocked.
